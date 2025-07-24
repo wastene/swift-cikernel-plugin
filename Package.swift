@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftCIKernelPlugin",
     platforms: [
-        .macOS(.v10_15),
+        .macOS(.v10_13),
         .iOS(.v13),
         .tvOS(.v13),
     ],
